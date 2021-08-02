@@ -1,4 +1,6 @@
-# A compilation and archive of all the best free anime websites 💢
+# The best free anime websites 💢
+
+Listing the past greatest and current greatest anime websites!
 
 **Contribute to the list via a pull request!** 🙌
 
