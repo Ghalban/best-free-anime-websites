@@ -4,7 +4,7 @@
 
 | Website | Status |
 | --------------- | --------------- | 
-| [4anime](https://4anime.to)       |  shutdown ❌|
-| [9anime](https://9anime.to)       |  active ✔️|
-| [KissAnime](https://kissanime.ru) |  shutdown ❌|
-| [AnimeDao](https://animedao.to/)  |  active ✔️|
+| [4anime](https://4anime.to)       |❌|
+| [9anime](https://9anime.to)       |✔️|
+| [KissAnime](https://kissanime.ru) |❌|
+| [AnimeDao](https://animedao.to/)  |✔️|
