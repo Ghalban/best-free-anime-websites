@@ -2,6 +2,6 @@
 
 | Website | Status |
 | --------------- | --------------- | 
-| Row 1 Column 1 |  Row 3 Column 1 |
-| Row 2 Column 1 |  Row 3 Column 1 |
-| Row 3 Column 1 |  Row 3 Column 1 |
+| [4anime](https://4anime.to) |  shutdown |
+| [Kissanime](https://kissanime.ru) |  shutdown |
+| Row 3 Column 1 |  active |
