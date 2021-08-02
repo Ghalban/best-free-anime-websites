@@ -6,5 +6,7 @@
 | --------------- | --------------- | 
 | [4anime](https://4anime.to)       |❌|
 | [9anime](https://9anime.to)       |✔️|
-| [KissAnime](https://kissanime.ru) |❌|
 | [AnimeDao](https://animedao.to/)  |✔️|
+| [AnimePlanet](https://www.anime-planet.com/) |✔️|
+| [GoGoAnime](https://gogoanime2.org/) |✔️|
+| [KissAnime](https://kissanime.ru) |❌|
